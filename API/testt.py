@@ -16,4 +16,4 @@ response = requests.post("https://mohdeploiment098.herokuapp.com/predict/", json
   "winter_tires": False
   })
 print(response.json())
-#Peugeot	21167	135	petrol	white	convertible	False	False	True	False	False	False	False	148
+#Peugeot	21167	135	petrol	white	convertible	False	False	True	False	False	False	False
